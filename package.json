@@ -1,0 +1,9 @@
+{
+  "name": "bd-config",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@mitsue/eslint-config-es5": "^1.0.1",
+    "eslint": "^6.0.1",
+    "gulp": "^4.0.2"
+  }
+}
